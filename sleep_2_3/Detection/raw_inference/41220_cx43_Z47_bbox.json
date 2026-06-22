@@ -1,0 +1,103 @@
+{
+  "41220_cx43_Z47": [
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1068.0,
+      "bbox_y": 954.0,
+      "bbox_width": 24.0,
+      "bbox_height": 25.0,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.8505859375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 466.75,
+      "bbox_y": 1255.0,
+      "bbox_width": 25.5,
+      "bbox_height": 30.0,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.7021484375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 730.5,
+      "bbox_y": 108.5625,
+      "bbox_width": 28.0,
+      "bbox_height": 28.3125,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.68798828125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1424.0,
+      "bbox_y": 1632.0,
+      "bbox_width": 22.0,
+      "bbox_height": 26.0,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.58349609375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1137.0,
+      "bbox_y": 1462.0,
+      "bbox_width": 22.0,
+      "bbox_height": 22.0,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.449951171875
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1470.0,
+      "bbox_y": 952.5,
+      "bbox_width": 21.0,
+      "bbox_height": 25.0,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.42431640625
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1544.0,
+      "bbox_y": 1104.0,
+      "bbox_width": 21.0,
+      "bbox_height": 23.0,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.408203125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1125.0,
+      "bbox_y": 1251.0,
+      "bbox_width": 23.0,
+      "bbox_height": 26.0,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.3896484375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 944.0,
+      "bbox_y": 1491.0,
+      "bbox_width": 18.5,
+      "bbox_height": 25.0,
+      "image_name": "41220_cx43_Z47.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.3486328125
+    }
+  ]
+}

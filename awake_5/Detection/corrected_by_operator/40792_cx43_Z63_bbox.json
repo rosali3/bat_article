@@ -1,0 +1,224 @@
+{
+  "40792_cx43_Z63": [
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 2004.0,
+      "bbox_y": 1229.0,
+      "bbox_width": 18.0,
+      "bbox_height": 15.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.5927734375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1949.0,
+      "bbox_y": 1214.0,
+      "bbox_width": 19.0,
+      "bbox_height": 14.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.56591796875
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1512.0,
+      "bbox_y": 823.5,
+      "bbox_width": 18.0,
+      "bbox_height": 16.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.5283203125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1082.0,
+      "bbox_y": 1103.0,
+      "bbox_width": 16.0,
+      "bbox_height": 16.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.48974609375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1164.0,
+      "bbox_y": 566.5,
+      "bbox_width": 24.0,
+      "bbox_height": 20.5,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.488525390625
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1203.0,
+      "bbox_y": 715.0,
+      "bbox_width": 18.0,
+      "bbox_height": 16.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.480712890625
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1397.0,
+      "bbox_y": 765.5,
+      "bbox_width": 18.0,
+      "bbox_height": 17.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.4755859375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1328.0,
+      "bbox_y": 954.0,
+      "bbox_width": 18.0,
+      "bbox_height": 18.5,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.470703125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 637.5,
+      "bbox_y": 1113.0,
+      "bbox_width": 19.0,
+      "bbox_height": 18.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.442138671875
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 720.0,
+      "bbox_y": 1148.0,
+      "bbox_width": 17.0,
+      "bbox_height": 16.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.428955078125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1256.0,
+      "bbox_y": 717.0,
+      "bbox_width": 20.0,
+      "bbox_height": 19.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.419677734375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1232.0,
+      "bbox_y": 749.0,
+      "bbox_width": 18.0,
+      "bbox_height": 15.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.39453125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1255.0,
+      "bbox_y": 662.0,
+      "bbox_width": 16.0,
+      "bbox_height": 15.5,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.389892578125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 817.0,
+      "bbox_y": 729.0,
+      "bbox_width": 19.5,
+      "bbox_height": 21.5,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.36279296875
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1862.0,
+      "bbox_y": 400.0,
+      "bbox_width": 20.0,
+      "bbox_height": 19.25,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.32763671875
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1790.0,
+      "bbox_y": 167.875,
+      "bbox_width": 25.0,
+      "bbox_height": 25.25,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.3134765625
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 111.125,
+      "bbox_y": 1018.0,
+      "bbox_width": 20.0,
+      "bbox_height": 18.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.310546875
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 92.1875,
+      "bbox_y": 1229.0,
+      "bbox_width": 17.875,
+      "bbox_height": 16.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.27099609375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1229.0,
+      "bbox_y": 713.5,
+      "bbox_width": 20.0,
+      "bbox_height": 18.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.258056640625
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1610.0,
+      "bbox_y": 736.0,
+      "bbox_width": 15.0,
+      "bbox_height": 16.0,
+      "image_name": "40792_cx43_Z63.png",
+      "image_width": 2046,
+      "image_height": 1368,
+      "score": 0.25244140625
+    }
+  ]
+}

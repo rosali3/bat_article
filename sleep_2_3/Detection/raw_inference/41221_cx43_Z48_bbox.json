@@ -1,0 +1,15 @@
+{
+  "41221_cx43_Z48": [
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 729.0,
+      "bbox_y": 104.875,
+      "bbox_width": 32.0,
+      "bbox_height": 37.375,
+      "image_name": "41221_cx43_Z48.png",
+      "image_width": 1635,
+      "image_height": 2131,
+      "score": 0.293212890625
+    }
+  ]
+}

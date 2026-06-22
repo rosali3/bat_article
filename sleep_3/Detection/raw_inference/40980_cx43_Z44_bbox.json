@@ -1,0 +1,48 @@
+{
+  "40980_cx43_Z44": [
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1147.0,
+      "bbox_y": 1164.0,
+      "bbox_width": 20.0,
+      "bbox_height": 19.0,
+      "image_name": "40980_cx43_Z44.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.394287109375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 613.5,
+      "bbox_y": 1143.0,
+      "bbox_width": 20.0,
+      "bbox_height": 22.0,
+      "image_name": "40980_cx43_Z44.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.328369140625
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 730.5,
+      "bbox_y": 157.375,
+      "bbox_width": 16.0,
+      "bbox_height": 16.5,
+      "image_name": "40980_cx43_Z44.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.300537109375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 944.5,
+      "bbox_y": 1050.0,
+      "bbox_width": 19.5,
+      "bbox_height": 21.0,
+      "image_name": "40980_cx43_Z44.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.2734375
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "40979_cx43_Z43": [
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 329.5,
+      "bbox_y": 768.0,
+      "bbox_width": 19.75,
+      "bbox_height": 16.5,
+      "image_name": "40979_cx43_Z43.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.5078125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 601.5,
+      "bbox_y": 1140.0,
+      "bbox_width": 26.5,
+      "bbox_height": 28.0,
+      "image_name": "40979_cx43_Z43.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.44091796875
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 304.0,
+      "bbox_y": 988.0,
+      "bbox_width": 22.5,
+      "bbox_height": 25.0,
+      "image_name": "40979_cx43_Z43.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.394287109375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 540.0,
+      "bbox_y": 652.5,
+      "bbox_width": 22.0,
+      "bbox_height": 21.5,
+      "image_name": "40979_cx43_Z43.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.34814453125
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 980.5,
+      "bbox_y": 606.0,
+      "bbox_width": 16.0,
+      "bbox_height": 16.5,
+      "image_name": "40979_cx43_Z43.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.341552734375
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 459.25,
+      "bbox_y": 821.5,
+      "bbox_width": 22.25,
+      "bbox_height": 21.5,
+      "image_name": "40979_cx43_Z43.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.304931640625
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 1113.0,
+      "bbox_y": 228.875,
+      "bbox_width": 17.0,
+      "bbox_height": 18.375,
+      "image_name": "40979_cx43_Z43.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.296875
+    },
+    {
+      "label_name": "gap_junction",
+      "bbox_x": 254.25,
+      "bbox_y": 1233.0,
+      "bbox_width": 17.75,
+      "bbox_height": 16.0,
+      "image_name": "40979_cx43_Z43.png",
+      "image_width": 1816,
+      "image_height": 1574,
+      "score": 0.268310546875
+    }
+  ]
+}
