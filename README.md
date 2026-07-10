@@ -71,6 +71,7 @@ results/
 - `plot_generation_script.ipynb` — plotting workflow for agreement metrics and Z-stack-level visualizations.
 - `data/` — input data organized by biological condition and acquisition session.
 - `results/` — generated plots and summary tables.
+- `electron_microscopy/` — folder with electron microscopy data for the study (not used in the analyses described above; used elsewhere of the article).
 
 ## Reproducibility
 
